@@ -26,7 +26,7 @@ ResolveIT has four distinct user roles:
 - Views system-wide ticket counts, response times, and resolution rates.
 - URL: `/admin`
 
-### 2. Company Developer (Company Lead)
+### 2. Company Developer (/*Company Lead*/)
 - Configures company-specific settings and branding.
 - Adds and customizes FAQ articles and ticket categories.
 - Hires and manages support agents (Employees).
